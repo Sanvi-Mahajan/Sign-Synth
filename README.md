@@ -28,6 +28,4 @@ Due to GitHub’s 100MB file limit, animation assets are not included in this re
 ## 👩‍💻 Author
 Created by [Sanvi Mahajan](https://github.com/Sanvi-Mahajan) 🦋
 
----
 
-Want help adding a demo badge, GIF, or future roadmap section? I’ve got you whenever you’re ready. This README gives your project depth, clarity, and credibility — even without the heavy assets.
